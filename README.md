@@ -1,6 +1,6 @@
 # Spam-Detector-Application
 
-Spam Detection Uygulaması / Spam Detection Application
+Spam Detector Uygulaması / Spam Detector Application
 
 📌 Açıklama / Description
 
